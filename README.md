@@ -1,5 +1,5 @@
 # EGELand
-Test Assignment 'EGELand'
+*SQL/Python/Datalens* Test Assignment 'EGELand'
 The project consists of 3 main parts: data extraction (SQL), data processing (Python) and data visualization (Datalens dashboard).
 
 <details>
