@@ -2,6 +2,7 @@
 Test Assignment 'EGELand'
 The project consists of 3 main parts: data extraction (SQL), data processing (Python) and data visualization (Datalens dashboard).
 
+
 ## Task 1
 *Objective:*
 Extract information from the database using an SQL query for the following users:
@@ -23,9 +24,9 @@ Date the course was opened for the student
 Number of full months the course has been available to the student
 Number of homework assignments completed by the student in the course
 
-Files provided for the task:
-db_schema.jpg – Database schema
-script_db.py – Python script to simulate database queries
+Database schema:
+![db_schema](https://github.com/user-attachments/assets/406bf3a7-b711-4223-858b-d8e040e2864d)
+
 
 ## Task 2
 *Objective:*
